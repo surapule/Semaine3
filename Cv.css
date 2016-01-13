@@ -1,0 +1,15 @@
+header{
+    font-size:25px;font-family:Garamond;text-align:center;color:#3399ff;background-color:#663300;
+}
+h1{
+    text-align:center;
+}
+body{
+    background-color:#3399FF; color:#663300; padding:25px 5px 25px 5px;
+}
+ul{
+    list-style-type:disc;
+}
+footer{
+    text-align:center;font-family:Cursive;color:#3399ff;background-color:#663300; padding-top:55px;
+}
